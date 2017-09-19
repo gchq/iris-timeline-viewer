@@ -1,0 +1,6 @@
+.idea/*
+bower_components/*
+node_modules/*
+reports/*
+mocha.json
+*.swp
