@@ -13,6 +13,9 @@ that adds a few bits to the existing API and provides a more natural syntax for 
 * Event and callback based approach to allow for maximumum customisation.
 * Fully customizable styles via CSS.
 
+## Demo
+[Demo on gh-pages](https://gchq.github.io/iris-timeline-viewer/)
+
 ### Browsers
 
 This component works with the following browser versions:
